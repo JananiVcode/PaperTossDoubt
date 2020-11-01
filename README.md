@@ -1,1 +1,2 @@
-# PaperTossDoubt
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
